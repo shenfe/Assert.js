@@ -1,0 +1,2 @@
+# Assert.js
+Function assertion
