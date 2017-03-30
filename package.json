@@ -1,0 +1,22 @@
+{
+  "name": "lib-assert",
+  "version": "1.0.0",
+  "description": "function argument assertion",
+  "main": "./assert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/focus-fe/lib-assert"
+  },
+  "keywords": [
+    "assert"
+  ],
+  "author": "keshen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/focus-fe/lib-assert/issues"
+  },
+  "homepage": "https://github.com/focus-fe/lib-assert"
+}
