@@ -1,2 +1,3 @@
-# Assert.js
-Function assertion
+# lib-assert
+
+函数断言。
