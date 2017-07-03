@@ -1,3 +1,3 @@
-## lib-assert
+## Assert.js
 
 函数断言。
