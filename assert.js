@@ -1,7 +1,3 @@
-/*jslint browser: true, vars: true, nomen: true, for: false, indent: 4, maxlen: 180, plusplus: true, sloppy: true, newcap: true, sub: true, regexp: true, continue: true, forin: true*/
-/*global console: true, changyan: true, _: true, module: true*/
-
-
 /**
  * @Author: Ke Shen <hengwu>
  * @Date:   2016-11-20
