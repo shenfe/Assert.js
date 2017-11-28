@@ -2,11 +2,17 @@
 
 函数断言。
 
+## Installation
+
+```bash
+npm install --save azzert
+```
+
 ## Usage
 
 ```js
-var assert = require('path/to/assert.js');
-var someDataHandler = function (data) {
+let assert = require('azzert');
+let someFunction = function (data) {
     assert(data, {
         id: 'n',
         name: 's,r'
