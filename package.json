@@ -1,0 +1,22 @@
+{
+  "name": "azzert",
+  "version": "1.0.0",
+  "description": "assertion",
+  "main": "assert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenfe/Assert.js.git"
+  },
+  "keywords": [
+    "assert"
+  ],
+  "author": "hengwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shenfe/Assert.js/issues"
+  },
+  "homepage": "https://github.com/shenfe/Assert.js#readme"
+}
