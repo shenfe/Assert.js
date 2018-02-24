@@ -5,21 +5,22 @@
 ## Installation
 
 ```bash
-npm install --save azzert
+$ npm install --save azzert
 ```
 
 ## Usage
 
 ```js
-let assert = require('azzert');
-let someFunction = function (data) {
+const assert = require('azzert');
+
+function someFunction(data) {
     assert(data, {
         id: 'n',
         name: 's,r'
         phones: ['s,r']
     });
     // ...
-};
+}
 ```
 
 ## 断言语法（assertion schema）说明
@@ -82,4 +83,4 @@ let someFunction = function (data) {
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2016-present, [shenfe](https://github.com/shenfe)
+Copyright © 2016-present, [shenfe](https://github.com/shenfe)
