@@ -1,6 +1,6 @@
 # Assert.js
 
-函数断言。
+数据格式断言。
 
 ## Installation
 
